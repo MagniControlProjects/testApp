@@ -1,0 +1,10 @@
+{
+    "name": "testApp",
+    "version": "0.1.0",
+    "author": "MagniControlProjects",
+    "description": "testApp",
+    "main": "main.js",
+	"scripts": {
+        "start": "electron ."
+    }
+}
